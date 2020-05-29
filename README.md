@@ -20,3 +20,7 @@
 
 ## Rotas Insomnia
 
+1. Com o **Insomnia** já instalado, clicar no botão abaixo para obter rotas.
+
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Go%20Finances&uri=https%3A%2F%2Fraw.githubusercontent.com%2FN0N4T0%2Fdesafio-database-upload%2Fmaster%2Fexport.json)
+
